@@ -1,0 +1,26 @@
+# Virtual environments
+.venv/
+
+# Bytecode / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data / generated artifacts
+data/
+reports/
+
+# Logs
+*.log
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS metadata
+Thumbs.db
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
+
